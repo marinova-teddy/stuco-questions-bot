@@ -1,0 +1,10 @@
+-italics for "Not answered yet..." text
+-pfp for acs assistant bot
+-name of answerer
+
+
+
+--!!answer feature
+--DM for your questoin has been answered
+--!!delete feature (repeated or inappropriate/irrelevant)
+--DM for your question has been deleted
